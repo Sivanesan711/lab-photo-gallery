@@ -1,0 +1,12 @@
+.logo
+{
+  font-size: medium;
+  font-family: sans-serif;
+  font-weight: 300;
+  color: whitesmoke;
+  background-color: tomato;
+  height: 2em;
+  width: 40cm;
+  padding-left: 2em;
+  padding-top: 1em;
+}
